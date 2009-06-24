@@ -6,9 +6,9 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "flickr_mapper"
     gem.summary = %Q{TODO}
-    gem.email = "steve@seven.net.nz"
-    gem.homepage = "http://github.com/steveh/flickr_mapper"
-    gem.authors = ["Steve Hoeksema"]
+    gem.email = "sct@sct.com.au"
+    gem.homepage = "http://github.com/square-circle-triangle/flickr_mapper"
+    gem.authors = ["Square Circle Triangle"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 
