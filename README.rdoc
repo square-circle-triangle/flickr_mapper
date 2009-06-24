@@ -1,0 +1,7 @@
+= flickr_mapper
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Steve Hoeksema. See LICENSE for details.
