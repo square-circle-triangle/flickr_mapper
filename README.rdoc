@@ -4,4 +4,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2009 Steve Hoeksema. See LICENSE for details.
+Copyright (c) 2009 Square Circle Triangle. See LICENSE for details.
