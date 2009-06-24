@@ -19,7 +19,13 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "flickr_mapper.gemspec",
      "lib/flickr_mapper.rb",
+     "lib/flickr_mapper/base.rb",
+     "lib/flickr_mapper/connection.rb",
+     "lib/flickr_mapper/parser.rb",
+     "lib/flickr_mapper/photo.rb",
+     "lib/flickr_mapper/photoset.rb",
      "spec/flickr_mapper_spec.rb",
      "spec/spec_helper.rb"
   ]
